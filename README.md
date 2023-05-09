@@ -1,3 +1,4 @@
+![MasterHead](https://drive.google.com/uc?export=view&id=1PIFboU0SEYB2t_E9h8B1YEliDnxRaX5G)
 <h1 align="center">Hi 👋, I'm Sinjini Ghosh</h1>
 <h3 align="center">A passionate frontend developer, UI/UX designer and Mobile App enthusiast from India</h3>
 

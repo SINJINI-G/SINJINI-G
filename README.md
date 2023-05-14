@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinjini-g&label=Profile%20views&color=0e75b6&style=flat" alt="sinjini-g" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinjini-g&label=Profile%20views&color=835AD1&style=flat" alt="sinjini-g" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinjini-g" alt="sinjini-g" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinjini-g" alt="sinjini-g" /></a> </p> -->
 
 - 🔭 I’m currently working on [Flipkart Clone](https://github.com/SINJINI-G/flipkart-clone)
 
@@ -18,8 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sinjini-ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinjini-ghosh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sinjini_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sinjini_g" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sinjini-ghosh" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="sinjini-ghosh" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/sinjini_g" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" alt="sinjini_g" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/sg18062003" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="sg18062003" height="30" width="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinjini-g&show_icons=true&locale=en&layout=compact" alt="sinjini-g" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjini-g&show_icons=true&locale=en" alt="sinjini-g" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjini-g&show_icons=true&locale=en" alt="sinjini-g" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinjini-g&" alt="sinjini-g" /></p>

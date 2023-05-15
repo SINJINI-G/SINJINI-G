@@ -45,11 +45,11 @@
 <img align="left" alt="ReactJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <br/><br/></p><br/><br/>
     
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinjini-g&show_icons=true&locale=en&layout=compact&theme=react&count_private=false" alt="sinjini-g" /></p> <br/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinjini-g&show_icons=true&locale=en&layout=compact&theme=react&count_private=false" alt="sinjini-g" /> <br/> 
   
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjini-g&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinjini-g&theme=vision-friendly-dark" alt="sinjini-g" /></p><br/><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjini-g&count_private=true&show_icons=true&theme=tokyonight" /><br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinjini-g&theme=vision-friendly-dark" alt="sinjini-g" /><br/>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjini-g&show_icons=true&locale=en" alt="sinjini-g" /></p> -->

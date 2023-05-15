@@ -43,13 +43,13 @@
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="ReactJS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-  <br/><br/></p><br/><br/>
+  <br/><br/></p><br/><br/><br/>
     
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinjini-g&show_icons=true&locale=en&layout=compact&theme=react&count_private=false" alt="sinjini-g" /> <br/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinjini-g&show_icons=true&locale=en&layout=compact&theme=react&count_private=false" alt="sinjini-g" /> <br/>
   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjini-g&count_private=true&show_icons=true&theme=tokyonight" /><br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinjini-g&theme=vision-friendly-dark" alt="sinjini-g" /><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjini-g&count_private=true&show_icons=true&theme=tokyonight" /><br/><br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinjini-g&theme=vision-friendly-dark" alt="sinjini-g" /><br/><br/>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjini-g&show_icons=true&locale=en" alt="sinjini-g" /></p> -->

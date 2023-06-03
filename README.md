@@ -54,4 +54,5 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjini-g&show_icons=true&locale=en" alt="sinjini-g" /></p> -->
 
-<a href="http://www.github.com/sinjini-g"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sinjini-g&bg_color=1A1B27&color=35AEA1&line=628FDB&point=B0ECFD&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/sinjini-g"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sinjini-g&bg_color=1A1B27&color=35AEA1&line=628FDB&point=B0ECFD&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ -->

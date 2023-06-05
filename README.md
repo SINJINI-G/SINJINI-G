@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sinjini-ghosh" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="sinjini-ghosh" height="50" width="50" /></a>
+<a href="https://twitter.com/_Sinjini_Ghosh_" target="blank"><img align="center" src="https://img.freepik.com/free-icon/twitter_318-674515.jpg" alt="sinjini-ghosh" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/sinjini_g" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" alt="sinjini_g" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/sg18062003" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="sg18062003" height="30" width="30"/></a>
 </p>
@@ -54,5 +55,5 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinjini-g&show_icons=true&locale=en" alt="sinjini-g" /></p> -->
 
-<a href="http://www.github.com/sinjini-g"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sinjini-g&bg_color=1A1B27&color=35AEA1&line=628FDB&point=B0ECFD&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/sinjini-g"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sinjini-g&bg_color=1A1B27&color=35AEA1&line=628FDB&point=B0ECFD&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
